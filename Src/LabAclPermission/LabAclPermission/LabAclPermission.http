@@ -1,0 +1,6 @@
+@LabAclPermission_HostAddress = http://localhost:5271
+
+GET {{LabAclPermission_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
